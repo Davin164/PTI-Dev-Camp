@@ -1,6 +1,6 @@
 # 📁 PTI Dev Camp #1
 
-> Repository ini dibuat sebagai bagian dari tugas **PTI Dev Camp #1**
+> Repository ini dibuat sebagai  dari tugas **PTI Dev Camp #1**
 
 ---
 
