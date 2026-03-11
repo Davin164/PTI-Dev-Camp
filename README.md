@@ -34,4 +34,4 @@ PTI-Dev-Camp/
 - **GitHub** — Platform hosting repository
 ---
 
-<p align="center">Dibuat dengan ❤️ untuk PTI Dev Camp #1</p>
+<p align="center">Dibuat dengan 🧠 untuk PTI Dev Camp #1</p>
