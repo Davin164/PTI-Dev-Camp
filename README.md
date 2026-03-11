@@ -1,6 +1,6 @@
 # 📁 PTI Dev Camp #1
 
-> Repository ini dibuat sebagai tugas **PTI Dev Camp #1**
+> Repository ini dibuat sebagai repo tugas **PTI Dev Camp #1**
 
 ---
 
